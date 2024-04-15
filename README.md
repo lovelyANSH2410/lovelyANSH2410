@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham Kushwaha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lovelyansh2410" alt="lovelyansh2410" /></a> </p>
-
 - 🌱 I’m currently learning **ReactJS**
 
 - 💬 Ask me about **react, javascript**
@@ -24,4 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lovelyansh2410&show_icons=true&locale=en" alt="lovelyansh2410" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lovelyansh2410&" alt="lovelyansh2410" /></p>
-
